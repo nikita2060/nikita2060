@@ -4,9 +4,9 @@
 
 ## I'm a Computer Science and Engineering Student  
 
-- 👨‍💻 I’m starting journey of Machine Learning after doing few projects in Python GUI.
+- 👨‍💻 I’m starting journey of Machine Learning after doing few projects in Python.
 - 📚 I’m currently learning Pandas.
-- 💪🏼 Future Goals: Be able to use AI and ML in creating unique projects.
+- 💪🏼 Future Goals: Learn and Grow with technology.
 - ⚡ Fun fact: I love to dance and paint.
 
 ---
