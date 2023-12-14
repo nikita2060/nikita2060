@@ -5,7 +5,7 @@
 ## I'm a Computer Science and Engineering Student  
 
 - 👨‍💻 I’m starting journey of Machine Learning after doing few projects in Python.
-- 📚 I’m currently learning Pandas.
+- 📚 In my free time, I solve problems in GeeksforGeeks and Hackerrank.
 - 💪🏼 Future Goals: Learn and Grow with technology.
 - ⚡ Fun fact: I love to dance and paint.
 
