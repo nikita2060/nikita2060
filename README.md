@@ -5,7 +5,7 @@
 ## I'm a Computer Science and Engineering Student  
 
 - 👨‍💻 I’m starting journey of Machine Learning after doing few projects in Python.
-- 📚 In my free time, I solve problems in GeeksforGeeks and Hackerrank.
+- 📚 In my free time, I solve problems in CodingNinjas:https://www.codingninjas.com/studio/profile/079eb410-dcf1-44df-8bcd-f40bac6350c6 and Hackerrank.
 - 💪🏼 Future Goals: Learn and Grow with technology.
 - ⚡ Fun fact: I love to dance and paint.
 
