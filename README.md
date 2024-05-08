@@ -9,7 +9,6 @@
 - 💪🏼 Future Goals: Learn and Grow with technology.
 - ⚡ Fun fact: I love to dance and paint.
 
-
 ---
 
 
