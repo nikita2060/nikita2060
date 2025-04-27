@@ -4,7 +4,8 @@
 
 ## I'm a Computer Science and Engineering Student  
 
-- 👨‍💻 I’m exploring AI Agents, MCP Servers and Backend Development after doing few projects in Python.
+- 👨‍💻 I’m exploring AI Agents, MCP Servers after doing few projects in Python.
+-  Learning Web Development using Typescript and Nextjs 
 - 📚 In my free time, I solve problems in CodingNinjas and Hackerrank.
 - 💪🏼 Future Goals: Learn and Grow with technology.
 - ⚡ Fun fact: I love to dance and paint.
